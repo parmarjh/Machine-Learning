@@ -24,4 +24,19 @@ Image Classification.
 <https://en.wikipedia.org/wiki/Supervised_learning>
 <https://www.customvision.ai/>
 <https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=d7304df8-741f-47d3-9bc2-df0e24e2071f&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2F.default%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fml.azure.com&client-request-id=97586d0c-bb12-4ce1-b0c4-328968e63f65&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.13.1&x-client-OS=&x-client-CPU=&client_info=1&code_challenge=K_LNtLAuoMWtjplpRbcNPBt73fQNzNGKMyVi2Q7ctNU&code_challenge_method=S256&nonce=2e4b0529-ec4c-466d-b869-4267d34c13c5&state=eyJpZCI6IjQxYzgzMWIyLTkxNDYtNGVmMi04YTliLTgwOWI1ZGViYzRiYyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D>
+<https://docs.microsoft.com/en-us/python/api/azure-cognitiveservices-vision-customvision/azure.cognitiveservices.vision.customvision.prediction.operations.customvisionpredictionclientoperationsmixin?view=azure-python#classify-image-project-id--published-name--image-data--application-none--custom-headers-none--raw-false----operation-config->
+
+Facial Recognition.
+<https://classroom.udacity.com/courses/ud099/lessons/a9ff1611-d0d9-4f34-bf03-360ace861d02/concepts/5a400248-a9c8-4e2c-ac24-195262c438ca>
+<https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview>
+<https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview>
+<https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-detecting-faces>
+<https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236>
+<https://docs.microsoft.com/en-us/azure/cognitive-services/face/quickstarts/client-libraries?tabs=visual-studio&pivots=programming-language-csharp>
+<https://docs.microsoft.com/en-us/python/api/azure-cognitiveservices-vision-face/azure.cognitiveservices.vision.face.operations.faceoperations?view=azure-python#detect-with-stream-image--return-face-id-true--return-face-landmarks-false--return-face-attributes-none--recognition-model--recognition-01---return-recognition-model-false--detection-model--detection-01---custom-headers-none--raw-false--callback-none----operation-config->
+<>
+<>
+<>
+<>
+
 
