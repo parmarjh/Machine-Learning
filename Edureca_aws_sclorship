@@ -1,3 +1,5 @@
+Object Detection
+
 <https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/>
 <https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service>
 <https://azure.microsoft.com/en-us/services/cognitive-services/face>
@@ -5,3 +7,21 @@
 <https://westcentralus.dev.cognitive.microsoft.com/docs/services/computer-vision-v3-1-ga/operations/56f91f2e778daf14a499f21b>
 <https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts-sdk/client-library?pivots=programming-language-csharp&tabs=visual-studio>
 <https://en.wikipedia.org/wiki/Image_segmentation>
+
+Image Classification.
+
+<https://classroom.udacity.com/courses/ud099/lessons/a9ff1611-d0d9-4f34-bf03-360ace861d02/concepts/005ec524-d2e5-41cd-a752-fb4a9d04f96b>
+<https://classroom.udacity.com/courses/ud099/lessons/a9ff1611-d0d9-4f34-bf03-360ace861d02/concepts/8dbaee62-7b30-4f70-9019-a18efcc324f3>
+<https://classroom.udacity.com/courses/ud099/lessons/a9ff1611-d0d9-4f34-bf03-360ace861d02/concepts/5e27d25d-36c9-412e-8f47-481928ff2f5e>
+
+<https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-categorizing-images>
+<https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/category-taxonomy>
+<https://westcentralus.dev.cognitive.microsoft.com/docs/services/computer-vision-v3-1-ga/operations/56f91f2e778daf14a499f21b>
+<https://docs.microsoft.com/en-us/azure/cognitive-services/Custom-Vision-Service/>
+<https://southcentralus.dev.cognitive.microsoft.com/docs/services/Custom_Vision_Training_3.3/operations/5eb0bcc6548b571998fddebd>
+<https://southcentralus.dev.cognitive.microsoft.com/docs/services/Custom_Vision_Prediction_3.1/operations/5eb37d24548b571998fde5f3>
+<https://docs.microsoft.com/en-us/python/api/azure-cognitiveservices-vision-customvision/azure.cognitiveservices.vision.customvision.prediction.operations.customvisionpredictionclientoperationsmixin?view=azure-python#classify-image-project-id--published-name--image-data--application-none--custom-headers-none--raw-false----operation-config->
+<https://en.wikipedia.org/wiki/Supervised_learning>
+<https://www.customvision.ai/>
+<https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=d7304df8-741f-47d3-9bc2-df0e24e2071f&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2F.default%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fml.azure.com&client-request-id=97586d0c-bb12-4ce1-b0c4-328968e63f65&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.13.1&x-client-OS=&x-client-CPU=&client_info=1&code_challenge=K_LNtLAuoMWtjplpRbcNPBt73fQNzNGKMyVi2Q7ctNU&code_challenge_method=S256&nonce=2e4b0529-ec4c-466d-b869-4267d34c13c5&state=eyJpZCI6IjQxYzgzMWIyLTkxNDYtNGVmMi04YTliLTgwOWI1ZGViYzRiYyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D>
+
